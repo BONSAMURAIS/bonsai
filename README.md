@@ -1,3 +1,8 @@
-# Testing the content of the readme file
-Testing readme file
-The aim is to make sure I can say whatever I want.
+# ipython notebooks - for BONSAI-beta version
+
+Least square method
+Leontief inverse
+
+This code works with both Python 2.7 or >3.4, although it requires some additional packages such as Numpy and Pandas.
+
+mdsie/test-readme is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
