@@ -7,4 +7,4 @@ Missing background data for now.
 
 This code works with both Python 2.7 or >3.4, although it requires some additional packages such as Numpy and Pandas.
 
-mdsie/test-readme is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+mdsie/ipython-notebooks-for-bonsai-beta is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
