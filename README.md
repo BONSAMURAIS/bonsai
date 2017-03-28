@@ -1,7 +1,7 @@
 # Pieces of Code for BONSAI-beta version
 
 The functional and technical specifications of BONSAI are described in the [wiki](https://github.com/BONSAMURAIS/bonsai/wiki).
-This repository contains pieces of code which execute some of the functions needed for BONSAI.
+This repository contains pieces of code to execute some of the functions needed for BONSAI.
 
 The [Calculation of LCIA results with Stepwise 1.6](https://github.com/BONSAMURAIS/bonsai/blob/master/Calculate%20product%20footprints%20with%20Stepwise.ipynb) notebook presents the code to calculate the Product Footprints with Stepwise 1.6. The functional specifications of this task are described in the [Global Impact Assessment](https://github.com/BONSAMURAIS/bonsai/wiki/Ensure%20Data%20Quality#global-impact-assessment-ia) working group.
 
