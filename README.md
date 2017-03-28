@@ -5,13 +5,13 @@ https://github.com/BONSAMURAIS/bonsai/wiki
 
 This repository contains pieces of code which could be used in the BONSAI beta-version.
 
-[Input Output Framework](https://github.com/BONSAMURAIS/bonsai/wiki/Harvest%20Data#sut-gap-filling--correction-routines)
+[Input Output Framework](https://github.com/BONSAMURAIS/bonsai/wiki/Harvest%20Data#sut-gap-filling--correction-routines)  
 Data filling algorithm -> Least square method tutorial - overdetermined system resolution.ipynb  
 
 [Global Impact Assessment](https://github.com/BONSAMURAIS/bonsai/wiki/Ensure%20Data%20Quality#global-impact-assessment-ia)  
 Calculation of Product Footprints -> Calculation of LCIA results - with Stepwise 1.6.ipynb
 
-[Product System algorithms](https://github.com/BONSAMURAIS/bonsai/wiki/Make-Data-Usable#product-system-algorithms)
+[Product System algorithms](https://github.com/BONSAMURAIS/bonsai/wiki/Make-Data-Usable#product-system-algorithms)  
 Matrix inversion -> Leontief inverse tutorial - calculate terminated results.ipynb
 
 These tutorials are written for the Exiobase IO-database. This database is not open-source and cannot be uploaded from this site.
