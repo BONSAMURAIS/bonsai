@@ -9,8 +9,7 @@ The [Leontief inverse tutorial](https://github.com/BONSAMURAIS/bonsai/blob/maste
 
 The [least square method tutorial](https://github.com/BONSAMURAIS/bonsai/blob/master/Overdetermined%20system%20resolution%20-%20sugar%20in%20soft%20drinks%20and%20spirits.ipynb) presents a case study using a data filling algorithm, which could be used by the [Input Output Framework](https://github.com/BONSAMURAIS/bonsai/wiki/Harvest%20Data#sut-gap-filling--correction-routines) working group.  
 
-These tutorials are written for the Exiobase IO-database. This database is not open-source and cannot be uploaded from this site.
-We intend to modify the tutorials, so they can be executed with FORWAST.
+These tutorials are currently written to be executed with the Exiobase IO-database as background data. But Exiobase is not open-source and cannot be uploaded from this site. We intend to modify the tutorials so they can be executed with FORWAST.
 
 This code works with Python 3.4, it requires some additional packages such as Numpy and Pandas. The pices of code are presented in Jupyter Notebooks. Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
 
