@@ -15,7 +15,7 @@ Calculation of Product Footprints -> Calculation of LCIA results - with Stepwise
 Matrix inversion -> Leontief inverse tutorial - calculate terminated results.ipynb
 
 These tutorials are written for the Exiobase IO-database. This database is not open-source and cannot be uploaded from this site.
-We intend to modify the tutorials to be able to use them with FORWAST which is an open-source database.
+We intend to modify the tutorials, so they can be executed with FORWAST.
 
 This code works with Python 3.4, it requires some additional packages such as Numpy and Pandas.
 
