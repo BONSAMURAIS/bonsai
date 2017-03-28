@@ -11,6 +11,6 @@ The [least square method tutorial](https://github.com/BONSAMURAIS/bonsai/blob/ma
 
 These tutorials are currently written to be executed with the Exiobase IO-database as background data. But Exiobase is not open-source and cannot be uploaded from this site. We intend to modify the tutorials so they can be executed with FORWAST.
 
-This code works with Python 3.4, it requires some additional packages such as Numpy and Pandas. The pices of code are presented in Jupyter Notebooks. Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
+The pieces of code are presented in Jupyter Notebooks. Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. This code works with Python 3.4, although it requires some additional packages such as Numpy and Pandas.
 
 BONSAMURAIS/bonsai/ is licensed under an MIT License.
