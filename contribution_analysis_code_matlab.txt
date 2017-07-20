@@ -1,0 +1,84 @@
+%=============================================================================================%
+%=================== code for contribution analysis of a process =============================%
+%=============================================================================================%
+%--- v.1 - Matlab
+%
+%=============================================================================================%
+
+% ----------------------- content------------------------------------------------------------ %
+
+% the code produces a file with the contribution analysis of a product
+% the product is indicated by the code of the classification
+% the code reads EXIOBASE supply-use tables in .xlsx format 
+% ------------------------------------------------------------------------------------------- %
+
+cd('  ') % insert path
+
+filename = ('XXXXXXXXX');   % insert file name
+
+%= supply file
+sheet = 'XXXX '; % insert sheet name
+xlRange = 'XXXXX'; % insert range
+supply= xlsread(filename,sheet,xlRange); 
+
+
+%= import of the use matrix
+xlRange = 'XXXX'; % insert range
+use= xlsread(filename,sheet,xlRange);
+
+%= supply vector without empty cells
+supply(supply==0) = 1;
+
+%= calculation of inverse of Leontief
+inv_supply=inv(diag(supply));
+%matrix of coefficients
+Zn=use*inv_supply;
+% inverse of Leontief
+I=eye(7872);
+inv_Leont=inv(I-Zn);
+
+%== import of emissions
+filename = ('XXXXXXX '); % insert file name
+sheet = 'XXXX';  % insert sheet name
+xlRange = 'XXXXX ';  % insert range
+emissions= xlsread(filename,sheet,xlRange);
+
+%= normalized emissions
+Bn=emissions*inv_supply;
+
+%= IPCC global warming potentials
+GWP=zeros(62,1);
+GWP(1)=1;  %CO2
+GWP(3)=28;  %CH4
+GWP(2)=265;   %N2O
+
+% emission of GHGs - normalized
+Bn_GWP=diag(GWP)*Bn;
+
+
+%= import classification of products
+filename = ('XXXXXX'); % insert file name
+sheet = 'XXXX';  % insert sheet name
+xlRange = 'XXXXX';   % insert range
+[~,~,raw]= xlsread(filename,sheet,xlRange); %import of labels
+
+
+%== selection of the product
+%************************************************************************************************
+product = 'XXXXX'; % indicates the code of the product whose contribution analysis is performed *
+%************************************************************************************************
+columns = strcmp(raw,product);
+GHGs_contrib=Bn_GWP*diag(inv_Leont(:,columns));
+
+%== contribution: where it occurs
+filename=('XXXX');  %name of the file with contribution analysis output
+xlRange = 'XXXX';   % insert range
+sheet=('XXXX');  % insert sheet name
+GHGs_contrib_column=GHGs_contrib.'; % format: activity X emiss
+xlswrite(filename,GHGs_contrib_column,sheet,xlRange);
+
+
+%s== contribtion: what causes
+uses_contr = output_sum_GHGs .*Zn(:,columns);
+xlRange = 'L3';
+xlswrite(filename,uses_contr,sheet,xlRange);
