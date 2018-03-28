@@ -6,4 +6,4 @@ Be S(m,n) a correspondence table between the two classifications. S(i,j)=1 if th
 
 Multiplying any vector accounted in one or the other classification by the correspondence table, it is possible to change the classification
 
-[example FAOvsExiobase]
+[example FAOvsExiobase](https://github.com/BONSAMURAIS/bonsai/blob/489be869d079ccef95315bdfac14c9883d7169e4/FAO_vs_EXIOBASE_prod_classification_correspondence.xlsx)
