@@ -6,7 +6,7 @@ This agenda is **preliminary**, feel free to suggest or make changes!
 
 The key to the hackathon being an effective use of our time is proper preparation. There are some tasks that everyone needs to do, to be ready to start on the first day. Other individual tasks are also listed below - please volunteer yourself for suitable tasks!
 
-I think that we will need two online meetings before the hackathon, one before Christmas and one about one week before the workshop.
+I think that we will need two online meetings before the hackathon, one in February and one about one week before the workshop.
 
 ### Tasks for everyone
 
