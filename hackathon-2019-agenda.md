@@ -23,7 +23,7 @@ I think that we will need two online meetings before the hackathon, one in Febru
 | Task | Responsible |
 | --- | --- |
 | Design/find basic tutorials using RDFLib | ? |
-| Choose background reading | All (individual contributions) |
+| Choose background reading https://github.com/BONSAMURAIS/hackaton-2019-background-reading | All (individual contributions) |
 | Extract or create lists of JSON-LD UUIDs for common data (units, etc.) | ? |
 | Map (or borrow existing mappings of) EXIOBASE elementary flows to ecoinvent | ? |
 | Pre-calculate example results for EXIOBASE in Brightway | Chris |
