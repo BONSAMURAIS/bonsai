@@ -2,10 +2,11 @@
 
 This repository contains preliminary code meant to execute some of the functions requried for a Bonsai-beta version.
 
-Substantial development is now taking place in dedicated working [groups](https://github.com/BONSAMURAIS) in preparation of the [Hackathon](https://github.com/BONSAMURAIS/hackathon-2019)
 The functional and technical specifications of BONSAI are currently described in an evoloving documentatioin in the [wiki](https://github.com/BONSAMURAIS/bonsai/wiki).
 
-# Description of the code in this repostitory
+Substantial development is now taking place in dedicated working [groups](https://github.com/BONSAMURAIS) in preparation of the [Hackathon](https://github.com/BONSAMURAIS/hackathon-2019)
+
+## Description of the code in this repostitory
 
 * The [Calculation of LCIA results with Stepwise 1.6](https://github.com/BONSAMURAIS/bonsai/blob/master/Calculate%20product%20footprints%20with%20Stepwise.ipynb) notebook presents the code to calculate the Product Footprints with Stepwise 1.6. The functional specifications of this task are described in the [Global Impact Assessment](https://github.com/BONSAMURAIS/bonsai/wiki/Ensure%20Data%20Quality#global-impact-assessment-ia) working group.
 
@@ -14,7 +15,7 @@ The Lontiev inverse function is detailed in the [Product System algorithms](http
 
 * The [least square method tutorial](https://github.com/BONSAMURAIS/bonsai/blob/master/Overdetermined%20system%20resolution%20-%20sugar%20in%20soft%20drinks%20and%20spirits.ipynb) presents a case study using a data filling algorithm, which could be used by the [Input Output Framework](https://github.com/BONSAMURAIS/bonsai/wiki/Harvest%20Data#sut-gap-filling--correction-routines) working group.  
 
-#NOTE: 
+### NOTE: 
 These tutorials are currently written to be executed with the Exiobase IO-database as background data. They are presented in Jupyter Notebooks, an open-source web application that allows creating and sharing documents that contain live code, equations, visualizations and explanatory text. This code works with Python 3.4, although it requires some additional packages such as Numpy and Pandas.
 
 BONSAMURAIS/bonsai/ is licensed under an MIT License.
