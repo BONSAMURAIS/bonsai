@@ -1,3 +1,6 @@
+# New to Bonsai?
+Head to the Wiki [getting started](https://github.com/BONSAMURAIS/bonsai/wiki/Getting-started) page or [homepage](https://github.com/BONSAMURAIS/bonsai/wiki).
+
 # Preliminary Code for BONSAI-beta version
 
 This repository contains preliminary code meant to execute some of the functions requried for a Bonsai-beta version.
