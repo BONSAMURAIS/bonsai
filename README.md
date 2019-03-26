@@ -1,4 +1,4 @@
-Welcome to the **management and documentation repository** for the Bonsai organisation (_Bonsai_ was taken, so _Bonsamurais_ is our organisation name on GitHub).
+Welcome to the **management and documentation repository** for the Bonsai organisation (named _Bonsamurais_ on GitHub).
 
 This repository hosts **[the Wiki](https://github.com/BONSAMURAIS/bonsai/wiki)** which describes all components of the Bonsai modular software architecture (work-in-progress!). This prominent README document describes how to get started with Bonsai.
 
