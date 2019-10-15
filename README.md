@@ -35,7 +35,7 @@ Yes! All participation is subject to the [BONSAI code of conduct](https://github
 A proposal for using Python-style Bonsai enhancement proposals (BEPs) [has been made](https://github.com/BONSAMURAIS/enhancements/blob/master/beps/0002-bonsai-project-community-governance-structure.md) and is [under discussion.](https://bonsai.groups.io/g/main/topic/bep0002_proposal_open_for/30399914?p=,,,20,0,0,0::recentpostdate%2Fsticky,,,20,1,0,30399914). The organisation Chair Chris Mutel has blogged about his thoughts on this topic [here](https://chris.mutel.org/bonsai-governance.html)
 
 ## Where is the documentation?
-The documentation will be written alongside the code, and hence does not yet exist. 
+The documentation will be written alongside the code. An overview of the different repositories produced for bonsai can be found [here](https://github.com/BONSAMURAIS/bonsai/blob/master/repositories_overview.md)
 
 ## Does Bonsai need translators?
 Not yet.
