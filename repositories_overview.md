@@ -23,13 +23,11 @@ are added or current repositories are modified.
 2. [arborist](https://github.com/BONSAMURAIS/arborist) -  Generate the URIs needed for the BONSAI knowledge graph. Designed to work with core BONSAI ontology. 
 3. [importer](https://github.com/BONSAMURAIS/importer)- imports RDF into the triplestore . BONSAI seeder is a cmd line interface utility that parses .ttl files and updates their content to the Jena instance 
 4. [triple-store](https://github.com/BONSAMURAIS/triple-store) - Competency queries and information related to the Bonsai RDF triple-store backend: Apache Jena (Multiple issues on development of SPARQL endpoint)
-5. [bontofrom](https://github.com/BONSAMURAIS/bontofrom) - parses a table and creates a BONsai onTOlogy from the table (Insufficient documentation) **Deprecated repo. Use arborist instead**.
 
 ## Correspondence tables
 1. [Correspondence-tables](https://github.com/BONSAMURAIS/Correspondence-tables) - Work space for the correspondence tables working group for BONSAI hackathon 2019
 2. [LCIA_Module](https://github.com/BONSAMURAIS/LCIA_Module) - collect and prepare LCIA methods (charactherization factors) to convert in RDF format for entry into the database
-3. [Correspondentia](https://github.com/BONSAMURAIS/Correspondentia) - Python library to map correspondence tables in different formats to data structures
-4. [grafter](https://github.com/BONSAMURAIS/grafter) - transform correspondance tables into in expressions of the form subject–predicate–objec
+3. [grafter](https://github.com/BONSAMURAIS/grafter) - transform correspondance tables into in expressions of the form subject–predicate–objec
 
 ## Exiobase conversion
 1. [Exiobase-conversion-software](https://github.com/BONSAMURAIS/Exiobase-conversion-software) - Exiobase conversion to RDF (scripts not updated)
