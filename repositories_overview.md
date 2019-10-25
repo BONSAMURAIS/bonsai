@@ -2,6 +2,10 @@
 This document provides a brief overview of the 26 repositories in BONSAMURAIS and will be updated if more repositories 
 are added or current repositories are modified. 
 
+# Graphical scheme
+
+Figure of how the repositories described below are linked.
+
 ## Repositories for management, guidelines and documentation
 1. [.github](https://github.com/BONSAMURAIS/.github) - Community health -  BONSAI Code of Conduct. Links for accessing community support
 2. [bonsai](https://github.com/BONSAMURAIS/bonsai) - Management and Documentation for BONSAI . Also hosts the Wiki
