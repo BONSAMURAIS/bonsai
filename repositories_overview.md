@@ -2,7 +2,7 @@
 This document provides a brief overview of the 26 repositories in BONSAMURAIS and will be updated if more repositories 
 are added or current repositories are modified. 
 
-# Graphical scheme
+## Graphical scheme
 Figure of how (some of) the repositories described below are linked (editable version [here](https://github.com/BONSAMURAIS/bonsai/blob/master/Bonsai_git_scheme.drawio)).
 ![](https://github.com/BONSAMURAIS/bonsai/blob/master/Bonsai_git_scheme.png)
 
