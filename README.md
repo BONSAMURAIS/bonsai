@@ -6,7 +6,7 @@ This repository hosts **[the Wiki](https://github.com/BONSAMURAIS/bonsai/wiki)**
 
 If you're a potential Bonsai **developer/contributor**: you're in the right place. There are many ways to contribute. This page will try to effectively direct your energies. Not sure if you want to contribute? [See here!](https://github.com/BONSAMURAIS/bonsai#why-contribute)
 
-Fo potential Bonsai **user**, we currently do not have ready-to-use tools. Parts of an alpha version of the required software were developed during the [hackathon](https://github.com/BONSAMURAIS/hackathon-2019) in March 29th 2019. Development is currently ongoing as described below. 
+For potential Bonsai **user** open data on BONSAI can be accessed from [the Jena triplestore](https://odas.aau.dk/fuseki/bonsai/query). Accessing data from the Jena requires [SPARQL](https://www.w3.org/TR/rdf-sparql-query/) know-how. Development of easy to use tools is currently ongoing. 
 
 ## Which projects or tasks currently require contributions?
 During the hackathon, see [the overview project board](https://github.com/orgs/BONSAMURAIS/projects/2)
