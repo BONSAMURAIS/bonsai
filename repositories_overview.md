@@ -38,8 +38,8 @@ Figure of how (some of) the repositories described below are linked (editable ve
 2. [mojo](https://github.com/BONSAMURAIS/mojo) - The system model frame work. Turning the raw data into into a computational structure .
 
 ## Web Application
-1. [bonsai_web_api](https://github.com/BONSAMURAIS/bonsai_web_api) - This repository hosts the code, issues and tasks related to the deployment of web-based applications to receive and serve user requests for LCA calculations. [https://app.bonsai.uno](https://app.bonsai.uno)
-2. [bonsai_api](https://github.com/BONSAMURAIS/bonsai_api) - REST API to serve LCA results and queries to the BONSAI database. 
+1. [bonsai_web_api](https://github.com/BONSAMURAIS/bonsai_web_api) - **deprecated** This repository hosts the code, issues and tasks related to the deployment of web-based applications to receive and serve user requests for LCA calculations. [https://app.bonsai.uno](https://app.bonsai.uno)
+2. [bonsai_api](https://github.com/BONSAMURAIS/bonsai_api) - REST API endpoints to query the BONSAI database using POST and GET methods. 
 
 ## Auxillary repositories
 1. [bentso](https://github.com/BONSAMURAIS/bentso) - BONSAI living model for European electricity via ENTSO-E API
