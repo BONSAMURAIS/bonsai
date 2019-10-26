@@ -3,8 +3,8 @@ This document provides a brief overview of the 26 repositories in BONSAMURAIS an
 are added or current repositories are modified. 
 
 ## Graphical scheme
-Figure of how (some of) the repositories described below are linked (editable version [here](https://github.com/BONSAMURAIS/bonsai/blob/master/Bonsai_git_scheme_v2.drawio)).
-![](https://github.com/BONSAMURAIS/bonsai/blob/master/Bonsai_git_scheme_v2.png)
+Figure of how (some of) the repositories described below are linked (editable version [here](https://github.com/BONSAMURAIS/bonsai/blob/master/Bonsai_git_scheme.drawio)).
+![](https://github.com/BONSAMURAIS/bonsai/blob/master/Bonsai_git_scheme.png)
 
 ## Repositories for management, guidelines and documentation
 1. [.github](https://github.com/BONSAMURAIS/.github) - Community health -  BONSAI Code of Conduct. Links for accessing community support
