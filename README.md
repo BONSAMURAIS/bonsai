@@ -4,7 +4,7 @@ This repository hosts **[the Wiki](https://github.com/BONSAMURAIS/bonsai/wiki)**
 
 If you're a potential Bonsai **developer/contributor**: you're in the right place. There are many ways to contribute. This page will try to effectively direct your energies. Not sure if you want to contribute? [See here!](https://github.com/BONSAMURAIS/bonsai#why-contribute).
 
-If you are a potential Bonsai **user**, we recommend to return after March 29th 2019, when the [hackathon](https://github.com/BONSAMURAIS/hackathon-2019) is completed and there should be something ready to use ;)
+Fo potential Bonsai **user**, we currently do not have ready-to-use tools. Parts of an alpha version of the required software were developed during the [hackathon](https://github.com/BONSAMURAIS/hackathon-2019) in March 29th 2019. Development is currently ongoing as described below. 
 
 ## Which projects or tasks currently require contributions?
 During the hackathon, see [the overview project board](https://github.com/orgs/BONSAMURAIS/projects/2)
