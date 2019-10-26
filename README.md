@@ -1,4 +1,4 @@
-# Readme
+# bonsai
 
 Welcome to the **management and documentation repository** for the Bonsai organisation (named _Bonsamurais_ on GitHub).
 
