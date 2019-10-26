@@ -6,12 +6,10 @@ This repository hosts **[the Wiki](https://github.com/BONSAMURAIS/bonsai/wiki)**
 
 If you're a potential Bonsai **developer/contributor**: you're in the right place. There are many ways to contribute. This page will try to effectively direct your energies. Not sure if you want to contribute? [See here!](https://github.com/BONSAMURAIS/bonsai#why-contribute).
 
-For potential Bonsai **user**, the BONSAI ontology is finalised and available. Parts of an alpha version of the required software were developed during the [hackathon](https://github.com/BONSAMURAIS/hackathon-2019) in March 29th 2019. 
-
-Development is currently ongoing as described below.
+For potential Bonsai **user**, open data on BONSAI can be accessed from [the Jena triplestore](https://odas.aau.dk/fuseki/bonsai/query). Accessing data from the Jena requires [SPARQL](https://www.w3.org/TR/rdf-sparql-query/) know-how. Development of easy to use tools is currently ongoing.
 
 ## Overviews and priorities
-The [project dependencies image](https://github.com/BONSAMURAIS/hackathon-2019/blob/master/project-dependencies.png) intends to support the prioritisation of tasks. This figure instead explains how (some of) the project repositories described below are linked (editable version [here](https://github.com/BONSAMURAIS/bonsai/blob/master/Bonsai_git_scheme.drawio)). 
+The [project dependencies image](https://github.com/BONSAMURAIS/hackathon-2019/blob/master/project-dependencies.png) intends to support the prioritisation of tasks. This figure below instead explains how (some of) the project repositories described below are linked (editable version [here](https://github.com/BONSAMURAIS/bonsai/blob/master/Bonsai_git_scheme.drawio)). 
 
 ![](https://github.com/BONSAMURAIS/bonsai/blob/master/Bonsai_git_scheme.png). [This page](https://github.com/BONSAMURAIS/bonsai/blob/master/repositories_overview.md) provides an introduction to BONSAI repositories.
 
