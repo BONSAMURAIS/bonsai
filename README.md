@@ -12,6 +12,7 @@ Development is currently ongoing as described below.
 
 ## Overviews and priorities
 The [project dependencies image](https://github.com/BONSAMURAIS/hackathon-2019/blob/master/project-dependencies.png) intends to support the prioritisation of tasks. This figure instead explains how (some of) the project repositories described below are linked (editable version [here](https://github.com/BONSAMURAIS/bonsai/blob/master/Bonsai_git_scheme.drawio)). 
+
 ![](https://github.com/BONSAMURAIS/bonsai/blob/master/Bonsai_git_scheme.png). [This page](https://github.com/BONSAMURAIS/bonsai/blob/master/repositories_overview.md) provides an introduction to BONSAI repositories.
 
 ## What is the current development status?
@@ -29,8 +30,7 @@ The term _Bonsai_ (**b**ig **o**pen **n**etwork **o**f **s**ustainability **a**s
 ## Where is BONSAI described?
 High-level descriptions of goals and objective of BONSAI is available at the [Bonsai website](https://bonsamurais.github.io/bonsai.uno/).
 This Wiki provides an up-to-date consensus description of the Bonsai project. An overview of the different BONSAI repositories and their content can be found [here](https://github.com/BONSAMURAIS/bonsai/blob/master/repositories_overview.md)
-
-### Note
+#### Note
 ###### The tasks and planning on the Wiki supercede the static [work plan](https://bonsai.uno/strategy-work-plan/) hosted on the website.
 
 ## Code-of-conduct and decision-making process
