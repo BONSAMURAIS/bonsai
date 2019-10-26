@@ -9,18 +9,21 @@ If you're a potential Bonsai **developer/contributor**: you're in the right plac
 For potential Bonsai **user**, open data on BONSAI can be accessed from [the Jena triplestore](https://odas.aau.dk/fuseki/bonsai/query). Accessing data from the Jena requires [SPARQL](https://www.w3.org/TR/rdf-sparql-query/) know-how. Development of easy to use tools is currently ongoing.
 
 ## Overviews and priorities
-The [project dependencies image](https://github.com/BONSAMURAIS/hackathon-2019/blob/master/project-dependencies.png) intends to support the prioritisation of tasks. This figure below instead explains how (some of) the project repositories described below are linked (editable version [here](https://github.com/BONSAMURAIS/bonsai/blob/master/Bonsai_git_scheme.drawio)). 
+If you wish to contribute, a starting point could be to look at [the BONSAI repositories overview](https://github.com/BONSAMURAIS/bonsai/blob/master/repositories_overview.md) page.
+The figure below explains how (some of) the project repositories described in the BONSAI repositories overview are linked (editable version [here](https://github.com/BONSAMURAIS/bonsai/blob/master/Bonsai_git_scheme.drawio)). 
+The [project dependencies image](https://github.com/BONSAMURAIS/hackathon-2019/blob/master/project-dependencies.png) instead, intends to support the prioritisation of tasks. 
 
-![](https://github.com/BONSAMURAIS/bonsai/blob/master/Bonsai_git_scheme.png) [This page](https://github.com/BONSAMURAIS/bonsai/blob/master/repositories_overview.md) provides an introduction to BONSAI repositories.
+![](https://github.com/BONSAMURAIS/bonsai/blob/master/Bonsai_git_scheme.png) 
 
 ## What is the current development status?
 The Bonsai project is currently undergoing development, since the March 2019 [hackathon](https://github.com/BONSAMURAIS/hackathon-2019). The topics discussed during the hackathon are available on the dedicated [bonsai.groups.io](https://bonsai.groups.io/g/hackathon2019/topics?p=RecentPostDate%2FSticky,,,20,1,0,0) page. BONSAI is currently in pre-alpha, with no official software released. 
-The development status is also visible in the [project board](https://github.com/orgs/BONSAMURAIS/projects/2)
+The development status is also visible in the [project board](https://github.com/orgs/BONSAMURAIS/projects/2). 
 
 ## How to communicate with other developers?
-See [BEP0004](https://github.com/BONSAMURAIS/enhancements/blob/bep4-communications/beps/0004-bonsai-communication-strategy.md), which describes the knowledge management and internal communication strategy of the organisation.
+BONSAI has a [mailing list](https://bonsai.groups.io/g/main) used for communication to the broader community.
+The [Bonsai Slack Workspace](https://bonsai-open.slack.com) is in active usage during planned hackathons and workshops. 
 
-The [Bonsai Slack Workspace](https://bonsai-open.slack.com) is in active usage during planned hackathons.
+The BONSAI enhancement proposal [BEP0004](https://github.com/BONSAMURAIS/enhancements/blob/bep4-communications/beps/0004-bonsai-communication-strategy.md) describes the knowledge management and internal communication strategy of the organisation.
 
 ## What do we mean when we say 'Bonsai'?
 The term _Bonsai_ (**b**ig **o**pen **n**etwork **o**f **s**ustainability **a**ssessment **i**nformation) is used within the community for various related concepts. The BONSAI association is a non-profit headquartered in Denmark. The _big open network_ extends well-beyond this organisation, to include the volunteers, digital artefacts, concepts and processes which constitute the full Bonsai project. Core software modules may also be referred to collectively as _Bonsai_, although the boundaries of correct usage here are not yet final or formalised.
