@@ -18,7 +18,7 @@ The Bonsai project is currently undergoing an intense period of organisation and
 ## How to communicate with other developers?
 See [BEP0004](https://github.com/BONSAMURAIS/enhancements/blob/bep4-communications/beps/0004-bonsai-communication-strategy.md), which describes the knowledge management and internal communication strategy of the organisation.
 
-The [Bonsai Slack Workspace](https://bonsai-open.slack.com) is in active usage throughout the Hackathon week of March 25th 2019.
+The [Bonsai Slack Workspace](https://bonsai-open.slack.com) is in active usage during planned hackathons.
 
 ## What do we mean when we say 'Bonsai'?
 The term _Bonsai_ (**b**ig **o**pen **n**etwork **o**f **s**ustainability **a**ssessment **i**nformation) is used within the community for various related concepts. The BONSAI association is a non-profit headquartered in Denmark. The _big open network_ extends well-beyond this organisation, to include the volunteers, digital artefacts, concepts and processes which constitute the full Bonsai project. Core software modules may also be referred to collectively as _Bonsai_, although the boundaries of correct usage here are not yet final or formalised.
