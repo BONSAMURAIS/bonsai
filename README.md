@@ -4,7 +4,7 @@ Welcome to the **management and documentation repository** for the Bonsai organi
 
 This repository hosts **[the Wiki](https://github.com/BONSAMURAIS/bonsai/wiki)** which describes all components of the Bonsai modular software architecture (work-in-progress!). This prominent README document describes how to get started with Bonsai.
 
-If you're a potential Bonsai **developer/contributor**: you're in the right place. There are many ways to contribute. This page will try to effectively direct your energies. Not sure if you want to contribute? [See here!](https://github.com/BONSAMURAIS/bonsai#why-contribute).
+If you're a potential Bonsai **developer/contributor**: you're in the right place. There are many ways to contribute. This page will try to effectively direct your energies. Not sure if you want to contribute? [See here!](https://github.com/BONSAMURAIS/bonsai#why-contribute)
 
 Fo potential Bonsai **user**, we currently do not have ready-to-use tools. Parts of an alpha version of the required software were developed during the [hackathon](https://github.com/BONSAMURAIS/hackathon-2019) in March 29th 2019. Development is currently ongoing as described below. 
 
