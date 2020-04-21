@@ -6,7 +6,7 @@ This repository hosts **[the Wiki](https://github.com/BONSAMURAIS/bonsai/wiki)**
 
 If you're a potential Bonsai **developer/contributor**: you're in the right place. There are many ways to contribute. This page will try to effectively direct your energies. Not sure if you want to contribute? [See here!](https://github.com/BONSAMURAIS/bonsai#why-contribute).
 
-For potential Bonsai **user**, open data on BONSAI can be accessed from [the Open Virtuoso triplestore](http://odas.aau.dk/). Accessing data from the Jena requires [SPARQL](https://www.w3.org/TR/rdf-sparql-query/) know-how. Development of easy to use tools is currently ongoing.
+For potential Bonsai **user**, open data on BONSAI can be accessed from [the Open Virtuoso triplestore](http://odas.aau.dk/). Accessing data from the triplestore requires [SPARQL](https://www.w3.org/TR/rdf-sparql-query/) know-how. Development of easy to use tools is currently ongoing. Meanwhile some example queries have been developed to help users extract data.
 
 ## Overviews and priorities
 If you wish to contribute, a starting point could be to look at [the BONSAI repositories overview](https://github.com/BONSAMURAIS/bonsai/blob/master/repositories_overview.md) page.
