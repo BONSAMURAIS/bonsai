@@ -11,13 +11,13 @@ For potential Bonsai **user**, open data on BONSAI can be accessed from [the Ope
 ## Overviews and priorities
 If you wish to contribute, a starting point could be to look at [the BONSAI repositories overview](https://github.com/BONSAMURAIS/bonsai/blob/master/repositories_overview.md) page.
 The figure below explains how (some of) the project repositories described in the BONSAI repositories overview are linked. 
-The [project dependencies image](https://github.com/BONSAMURAIS/hackathon-2019/blob/master/project-dependencies.png) instead, intends to support the prioritisation of tasks. 
+ 
 
 ![](https://github.com/BONSAMURAIS/bonsai/blob/master/Bonsai_git_scheme.png) 
 
 ## What is the current development status?
 The Bonsai project is currently undergoing development, since the March 2019 [hackathon](https://github.com/BONSAMURAIS/hackathon-2019). The topics discussed during the hackathon are available on the dedicated [bonsai.groups.io](https://bonsai.groups.io/g/hackathon2019/topics?p=RecentPostDate%2FSticky,,,20,1,0,0) page. BONSAI is currently in alpha stage. Preliminary softwares to convert open datasets on sustainibility assessment using the BONSAI ontology. 
-The development status is also visible in the [project board](https://github.com/orgs/BONSAMURAIS/projects/2). 
+The development status is also visible in the [project board](https://github.com/orgs/BONSAMURAIS/projects/2). This intends to support the prioritisation of tasks. 
 
 ## How to communicate with other developers?
 BONSAI has a [mailing list](https://bonsai.groups.io/g/main) used for communication to the broader community.
